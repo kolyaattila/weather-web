@@ -2,10 +2,10 @@
 
 ## Development 
 
-### You shoud have already 
-    1. node `https://nodejs.org`
-    2. npm  `https://www.npmjs.com`
-    3. Angular `https://cli.angular.io/`
+### You should have already installed
+    1. [node](https://nodejs.org)
+    2. [npm](https://www.npmjs.com)
+    3. [Angular](https://cli.angular.io/)
 
 
 ### Run command
