@@ -3,9 +3,9 @@
 ## Development 
 
 ### You should have already installed
-     [node](https://nodejs.org)
-     [npm](https://www.npmjs.com)
-     [Angular](https://cli.angular.io/)
+[node](https://nodejs.org)
+[npm](https://www.npmjs.com)
+[Angular](https://cli.angular.io/)
 
 
 ### Run command
